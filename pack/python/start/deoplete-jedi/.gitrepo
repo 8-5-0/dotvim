@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:zchee/deoplete-jedi.git
+	branch = master
+	commit = 715acf2847b8fa8d436a10a4c3dfd7187d53b72f
+	parent = 9011702230e8b5589a40527fa11917f8c4449418
+	cmdver = 0.3.1
