@@ -8,6 +8,13 @@ Tips
 curl https://raw.githubusercontent.com/lilydjwg/dotvim/master/vimrc | vim -R -c 'setf vim' -
 ```
 
+Deps
+====
+* deoplete
+  * python-neovim
+* deoplete-jedi
+  * python-jedi
+
 Note
 ====
 There are notes in `refs/notes/*`.
