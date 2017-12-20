@@ -410,6 +410,7 @@ endfunction
 syntax on
 " set guifont=文泉驿等宽正黑\ Medium\ 10
 set number
+set mouse=a
 set smarttab
 set expandtab
 " 不要响铃，更不要闪屏
